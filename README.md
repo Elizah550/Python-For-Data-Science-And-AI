@@ -2,4 +2,4 @@
 Coursera Course
 
 This course is really Great.
-This rep contains all my notebooks related to that course
+This repo contains all my notebooks related to that course
